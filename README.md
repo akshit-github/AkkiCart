@@ -1,4 +1,5 @@
 # AkkiCart
+HI! My name is Akshit .
 I developed this shopping website using python jango framework. 
 FOR RUNNING THE SERVER WE HAVE TO GO IN PROJECT THEN IN AKKICART THEN USE CODE IN TERMINAL = python manage.py runserver AND THEN HIT ENTER.
 firstly we will make Django environvement.
